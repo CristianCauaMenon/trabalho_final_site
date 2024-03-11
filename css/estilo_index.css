@@ -1,0 +1,169 @@
+html,body{
+    background-color:black;
+    height: 80%;
+    margin:0;
+    font: 400 15px/1.8 "Lato", sans-serif;
+    color:white;
+}
+h1{
+    color: white;
+    text-align: center;
+    background-color: #101010;
+    margin-left: 0%;
+}
+header{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #161616;
+    border-radius: 15px;
+    margin-top: 25px;
+}
+.navegacao{
+    overflow:hidden;
+}
+.navegacao a{
+    float: right;
+    display: block;
+    color: rgb(173,173,173);
+    text-decoration: none;
+    text-align: right;
+    padding: 5px 5px;
+}
+.navegacao a:hover{
+    color: #e32936;
+    background-color: black;
+}
+
+.parallax1{
+    text-align: center;
+    position: relative;
+    background-image:url("../img/aviation_fundo.jpg");
+    height:100%;
+    opacity: 0.75;
+    background-attachment: fixed;/*fixa a imagem deixando rolar*/
+    background-position: center;/*Posiciona a imagem de forma centralizada*/
+    background-repeat: no-repeat;/*Não permite que caso a tela seja maior que a imagem ela repita*/
+    background-size: cover;/*redimensiona a imagem de acordo com a tela mantendo a proporção*/
+    
+    .border{
+        background-color: #101010;
+        padding: 18px;
+        letter-spacing: 10px;
+        font-size: 25px;
+   }    
+}
+.parallax2{
+    text-align: center;
+    position: relative;
+    background-image:url("../img/aviation_fundo.jpg");
+    height:100%;
+    opacity: 0.75;
+    background-attachment: fixed;/*fixa a imagem deixando rolar*/
+    background-position: center;/*Posiciona a imagem de forma centralizada*/
+    background-repeat:no-repeat;/*Não permite que caso a tela seja maior que a imagem ela repita*/
+    background-size: cover;/*redimensiona a imagem de acordo com a tela mantendo a proporção*/
+    
+    .border{
+        background-color: #101010;
+        padding: 18px;
+        letter-spacing: 10px;
+        font-size: 25px;
+   }    
+}
+.parallax3{
+    text-align: center;
+    position: relative;
+    background-image:url("../img/aviation_fundo.jpg");
+    height:100%;
+    opacity: 0.75;
+    background-attachment: fixed;/*fixa a imagem deixando rolar*/
+    background-position: center;/*Posiciona a imagem de forma centralizada*/
+    background-repeat:no-repeat;/*Não permite que caso a tela seja maior que a imagem ela repita*/
+    background-size: cover;/*redimensiona a imagem de acordo com a tela mantendo a proporção*/
+    
+    .border{
+        background-color: #101010;
+        padding: 18px;
+        letter-spacing: 10px;
+        font-size: 25px;
+   }    
+}
+.parallax4{
+    text-align: center;
+    position: relative;
+    background-image:url("../img/aviation_fundo.jpg");
+    height:100%;
+    opacity: 0.75;
+    background-attachment: fixed;/*fixa a imagem deixando rolar*/
+    background-position: center;/*Posiciona a imagem de forma centralizada*/
+    background-repeat:no-repeat;/*Não permite que caso a tela seja maior que a imagem ela repita*/
+    background-size: cover;/*redimensiona a imagem de acordo com a tela mantendo a proporção*/
+    
+    .border{
+        background-color: #101010;
+        padding: 18px;
+        letter-spacing: 10px;
+        font-size: 25px;
+   }    
+}
+
+.parallax5{
+    text-align: center;
+    position: relative;
+    background-image:url("../img/aviation_fundo.jpg");
+    height:100%;
+    opacity: 0.75;
+    background-attachment: fixed;/*fixa a imagem deixando rolar*/
+    background-position: center;/*Posiciona a imagem de forma centralizada*/
+    background-repeat:no-repeat;/*Não permite que caso a tela seja maior que a imagem ela repita*/
+    background-size: cover;/*redimensiona a imagem de acordo com a tela mantendo a proporção*/
+    
+    .border{
+        background-color: #101010;
+        padding: 18px;
+        letter-spacing: 10px;
+        font-size: 25px;
+   }    
+}
+.parallax6{
+    text-align: center;
+    position: relative;
+    background-image:url("../img/aviation_fundo.jpg");
+    height:100%;
+    opacity: 0.75;
+    background-attachment: fixed;/*fixa a imagem deixando rolar*/
+    background-position: center;/*Posiciona a imagem de forma centralizada*/
+    background-repeat:no-repeat;/*Não permite que caso a tela seja maior que a imagem ela repita*/
+    background-size: cover;/*redimensiona a imagem de acordo com a tela mantendo a proporção*/
+    
+    .border{
+        background-color: #101010;
+        padding: 18px;
+        letter-spacing: 10px;
+        font-size: 25px;
+   }    
+}
+.parallax7{
+    text-align: center;
+    position: relative;
+    background-image:url("../img/aviation_fundo.jpg");
+    height:100%;
+    opacity: 0.75;
+    background-attachment: fixed;/*fixa a imagem deixando rolar*/
+    background-position: center;/*Posiciona a imagem de forma centralizada*/
+    background-repeat:no-repeat;/*Não permite que caso a tela seja maior que a imagem ela repita*/
+    background-size: cover;/*redimensiona a imagem de acordo com a tela mantendo a proporção*/
+    
+    .border{
+        background-color: #101010;
+        padding: 18px;
+        letter-spacing: 10px;
+        font-size: 25px;
+   }    
+}
+
+.rodape{
+    color: darkgray;
+    font-size: 10px;
+    text-align: center;
+    padding:20px;
+}
